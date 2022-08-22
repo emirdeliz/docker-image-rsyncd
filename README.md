@@ -1,4 +1,4 @@
-Fork of https://hub.docker.com/r/eugenmayer/rsync/ to use arm64 🤌
+Fork of https://hub.docker.com/r/eugenmayer/rsync/ to use arm64 🤌.
 
 👇👇👇
 
