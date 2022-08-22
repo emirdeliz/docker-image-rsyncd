@@ -1,4 +1,4 @@
-FROM alpine:edge
+FROM --platform=linux/arm64/v8 alpine:edge
 
 # initially created by https://github.com/Duske - thank you!
 RUN apk add --no-cache --repository http://dl-4.alpinelinux.org/alpine/edge/testing/ shadow \
